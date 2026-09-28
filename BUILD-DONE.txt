@@ -1,0 +1,4 @@
+Pytest test count: 11 passed
+Local build commit hash: cea5073e84532fabfb9157e06ae96c3e995b1646
+
+PromptDiff is implemented as a Python CLI and typed local prompt repository with immutable versions, deterministic line and section diffs, synthetic fixture checks, regression comparisons, a documented token-count heuristic, declared latency estimates, configurable release gates, append-only audit records, and deterministic Markdown and JSON reports. The README documents quickstart, architecture, gate thresholds, and the honesty boundary that no language models are called and that cost and latency are estimates. The full pytest suite passed.
